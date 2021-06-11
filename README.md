@@ -11,7 +11,7 @@
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RGTechno&count_private=true&show_icons=true&theme=dark)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgtechno&theme=dark&show_icons=true&locale=en&layout=compact" alt="rgtechno" /></p>
 
-**Are you a Python Enthusiast and willing to contribute? Have a look at the [Text Editor](https://github.com/RGTechno/TextEditor)**
+**Are you a Python Enthusiast and willing to contribute? Have a look at the [Text Editor](https://github.com/RGTechno/TextEditor) made in python.**
 
 
 
