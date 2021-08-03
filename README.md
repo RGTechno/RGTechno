@@ -1,4 +1,4 @@
-### Hi DEV FREAKS 😅
+### HEY!! Fellow Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working with Flutter and Dart
 - 👯 I’m looking to collaborate on Open Source Projects for the community
