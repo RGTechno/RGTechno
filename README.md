@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Flutter and Dart
 - 👯 I’m looking to collaborate on Open Source Projects for the community
-- 📫 How to reach me: https://www.linkedin.com/in/rahul-gandhi-80a911191/
+- 📫 How to reach me: https://www.linkedin.com/in/rgtechno/
 - ⚡ Fun fact: Its not Fun at all..😂
 
 <h3 align="left">Languages and Tools:</h3>
